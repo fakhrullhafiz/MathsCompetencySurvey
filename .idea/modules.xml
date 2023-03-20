@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MathCompetencySurvey.iml" filepath="$PROJECT_DIR$/MathCompetencySurvey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathsCompetencySurvey.iml" filepath="$PROJECT_DIR$/MathsCompetencySurvey.iml" />
     </modules>
   </component>
 </project>

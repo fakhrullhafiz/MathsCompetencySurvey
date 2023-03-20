@@ -1,4 +1,4 @@
-public class Examiner {
+public abstract class Examiner {
     private String name;
     private String id;
 
@@ -10,6 +10,9 @@ public class Examiner {
     public String getName() {
         return name;
     }
+
+
+    public abstract float calcpay();
 
     public void setName(String name) {
         this.name = name;
